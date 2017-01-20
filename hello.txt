@@ -7,3 +7,4 @@ git pull #get the updates on remote repo by this command merely
 git fetch  + git checkout + git pull compounding use
 
 test git checkout + git pull compounding use
+Creating a new branch is quick.
