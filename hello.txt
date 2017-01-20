@@ -1,6 +1,6 @@
 hello world just a test
 it's added locally
 it's added remotely
-git fetch #是否必须用?
+git fetch #nessceory or not?
 git checkout origin/master -- /path to filename
-git pull
+git pull #get the updates on remote repo by this command
