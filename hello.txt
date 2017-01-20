@@ -5,3 +5,5 @@ git fetch #nessceory or not?
 git checkout origin/master -- /path to filename
 git pull #get the updates on remote repo by this command merely
 git fetch  + git checkout + git pull compounding use
+
+test git checkout + git pull compounding use
